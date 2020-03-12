@@ -1,0 +1,5 @@
+make COMPONENTS_DIRNAMES=sha256
+make COMPONENTS_DIRNAMES=NaiveHashComponent 
+make COMPONENTS_DIRNAMES=sha3 
+
+IL FAUT executer "make clean" apres chaque commande
